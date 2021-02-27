@@ -1,0 +1,10 @@
+$(function(){
+  $("#header").load("https://bitmagicgroup.github.io/htmlUtils/header.html"); 
+  $("#footer").load("https://bitmagicgroup.github.io/htmlUtils/footer.html");
+  $("#copyright").load("https://bitmagicgroup.github.io/htmlUtils/copyright.html");
+  $("#subscribe").load("https://bitmagicgroup.github.io/htmlUtils/subscribe.html");
+  $("#course-overview").load("https://bitmagicgroup.github.io/htmlUtils/course-overview.html");
+  $("#about-summary").load("https://bitmagicgroup.github.io/htmlUtils/about-summary.html");
+  $("#success-stories").load("https://bitmagicgroup.github.io/htmlUtils/success-stories.html");
+  $("#contact-details").load("https://bitmagicgroup.github.io/htmlUtils/contact-details.html");
+});
