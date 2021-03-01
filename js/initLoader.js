@@ -1,10 +1,10 @@
 $(function(){
-  $("#header").load("https://bitmagicgroup.github.io/htmlUtils/header.html"); 
-  $("#footer").load("https://bitmagicgroup.github.io/htmlUtils/footer.html");
-  $("#copyright").load("https://bitmagicgroup.github.io/htmlUtils/copyright.html");
-  $("#subscribe").load("https://bitmagicgroup.github.io/htmlUtils/subscribe.html");
-  $("#course-overview").load("https://bitmagicgroup.github.io/htmlUtils/course-overview.html");
-  $("#about-summary").load("https://bitmagicgroup.github.io/htmlUtils/about-summary.html");
-  $("#success-stories").load("https://bitmagicgroup.github.io/htmlUtils/success-stories.html");
-  $("#contact-details").load("https://bitmagicgroup.github.io/htmlUtils/contact-details.html");
+  $("#header").load("htmlUtils/header.html"); 
+  $("#footer").load("htmlUtils/footer.html");
+  $("#copyright").load("htmlUtils/copyright.html");
+  $("#subscribe").load("htmlUtils/subscribe.html");
+  $("#course-overview").load("htmlUtils/course-overview.html");
+  $("#about-summary").load("htmlUtils/about-summary.html");
+  $("#success-stories").load("htmlUtils/success-stories.html");
+  $("#contact-details").load("htmlUtils/contact-details.html");
 });
