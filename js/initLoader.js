@@ -1,0 +1,10 @@
+$(function(){
+  $("#header").load("htmlUtils/header.html"); 
+  $("#footer").load("htmlUtils/footer.html");
+  $("#copyright").load("htmlUtils/copyright.html");
+  $("#subscribe").load("htmlUtils/subscribe.html");
+  $("#course-overview").load("htmlUtils/course-overview.html");
+  $("#about-summary").load("htmlUtils/about-summary.html");
+  $("#success-stories").load("htmlUtils/success-stories.html");
+  $("#contact-details").load("htmlUtils/contact-details.html");
+});
