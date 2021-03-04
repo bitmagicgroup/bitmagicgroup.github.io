@@ -17,4 +17,6 @@ $(function(){
   $("#blockchain-section").load("htmlUtils/blockchain.html");
   $("#misc-section").load("htmlUtils/misc.html");
   $("#faq-section").load("htmlUtils/faq.html");
+  $("#about-detailed").load("htmlUtils/about-detailed.html");
+  $("#course-detailed").load("htmlUtils/course-detailed.html");
 });
