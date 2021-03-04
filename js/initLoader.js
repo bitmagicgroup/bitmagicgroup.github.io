@@ -7,4 +7,14 @@ $(function(){
   $("#about-summary").load("htmlUtils/about-summary.html");
   $("#success-stories").load("htmlUtils/success-stories.html");
   $("#contact-details").load("htmlUtils/contact-details.html");
+  $("#starting-soon-section").load("htmlUtils/starting-soon.html");
+  $("#just-added-section").load("htmlUtils/just-added.html");
+  $("#most-viewed-section").load("htmlUtils/most-viewed.html");
+  $("#top-paid-section").load("htmlUtils/top-paid.html");
+  $("#algo-ds-section").load("htmlUtils/algo-ds.html");
+  $("#system-design-section").load("htmlUtils/system-design.html");
+  $("#al-ml-section").load("htmlUtils/al-ml.html");
+  $("#blockchain-section").load("htmlUtils/blockchain.html");
+  $("#misc-section").load("htmlUtils/misc.html");
+  $("#faq-section").load("htmlUtils/faq.html");
 });
